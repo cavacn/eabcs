@@ -1,0 +1,29 @@
+{
+  "name": "eabcs",
+  "version": "0.0.1",
+  "description": "model with oop4js",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node example/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cavacn/eabcs.git"
+  },
+  "keywords": [
+    "oop4js",
+    "eabcs",
+    "abcs",
+    "model"
+  ],
+  "author": "cava.zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavacn/eabcs/issues"
+  },
+  "ReadMeFile":"README.md",
+  "homepage": "https://github.com/cavacn/eabcs"
+}
